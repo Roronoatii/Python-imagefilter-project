@@ -1,0 +1,1 @@
+# Ce package contient les 3 fonctions des filtres blur, grayscale et dilate
